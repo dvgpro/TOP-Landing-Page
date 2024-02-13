@@ -1,7 +1,8 @@
 body
 {
     display: flex; 
-    flex-direction: column;   
+    flex-direction: column;
+    margin: 0;   
 }
 
 .main
@@ -23,4 +24,15 @@ a
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.logo
+{
+    font-size: 24PX;
+    color: #f9faf8;
+}
+
+.header, .hero-box
+{
+    background-color: #1f2937;
 }
