@@ -158,3 +158,9 @@ a
     font-weight: lighter;
     color: #1f2937;
 }
+
+.quote-name
+{
+    font-weight: bold;
+    align-self: flex-end;
+}
