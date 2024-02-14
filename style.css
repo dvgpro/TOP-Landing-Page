@@ -99,3 +99,9 @@ a
     flex-direction: column;
 }
 
+.main-random-text
+{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
