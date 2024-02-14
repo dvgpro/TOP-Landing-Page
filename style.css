@@ -29,3 +29,18 @@ a
     margin: 0 10px;
 }
 
+.logo
+{
+    font-size: 24PX;
+    color: #f9faf8;
+}
+
+.header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+    background-color: #1f2973;
+}
