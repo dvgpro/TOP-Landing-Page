@@ -141,3 +141,20 @@ a
     background-color: #e5e7eb;
     padding: 50px 0;
 }
+
+.quote
+{
+    display: flex;
+    flex-direction: column;
+    text-wrap: wrap;
+    height: auto;
+    width: 700px;
+}
+
+.quote-text
+{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
