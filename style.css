@@ -80,7 +80,7 @@ a
     margin: 50px 10px;
 }
 
-.button-one
+.button-one, .button-two
 {
    font-size: 20px;
    color: #f9faf8;
@@ -171,5 +171,9 @@ a
     background-color: #3882f6;
     height: 100px;
     width: 700px;
+}
 
+.button-two
+{
+    border: 3PX solid #f9faf8;
 }
