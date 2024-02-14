@@ -91,12 +91,13 @@ a
    padding: 4px 16px;
 }
 
-.random-info-section
+.random-info-section, .quote-section, .sign-up-section
 {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 50px 0;
 }
 
 .main-random-text
@@ -135,11 +136,7 @@ a
 
 .quote-section
 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color: #e5e7eb;
-    padding: 50px 0;
 }
 
 .quote
@@ -164,3 +161,4 @@ a
     font-weight: bold;
     align-self: flex-end;
 }
+
