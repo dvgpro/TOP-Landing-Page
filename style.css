@@ -177,3 +177,14 @@ a
 {
     border: 3PX solid #f9faf8;
 }
+
+.main-action-text
+{
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.secondary-action-text
+{
+    color: #e5e7eb;
+}
