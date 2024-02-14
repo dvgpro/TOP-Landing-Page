@@ -60,3 +60,14 @@ a
     background-color: #1f2937;
 }
 
+.secondary-hero-text
+{
+    display: flex;
+    margin: 0;
+    padding: 10px 0;
+    text-wrap: wrap;
+    font-size: 18px;
+    color: #e5e7eb;
+    width: 500px;
+    height: auto;
+}
