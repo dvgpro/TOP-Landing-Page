@@ -105,3 +105,28 @@ a
     font-weight: bolder;
     color: #1f2937;
 }
+
+.random-img-container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.img-box
+{
+    display: flex;
+    flex-direction: column;
+    text-wrap: wrap;
+    padding: 0;
+    margin: 10px;
+}
+
+.small-image
+{
+    margin: 0;
+    padding: 0;
+    height: 120px;
+    width: 120px;
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+}
