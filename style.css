@@ -40,6 +40,7 @@ a
     font-size: 48px;
     margin: 0;
     padding: 0;
+    font-weight: bolder;
 }
 
 .header
@@ -97,3 +98,4 @@ a
     align-items: center;
     flex-direction: column;
 }
+
