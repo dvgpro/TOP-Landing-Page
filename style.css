@@ -52,7 +52,7 @@ a
     background-color: #1f2937;
 }
 
-.hero-box
+.hero-section
 {
     display: flex;
     justify-content: center;
@@ -89,3 +89,4 @@ a
    margin: 0;
    padding: 4px 16px;
 }
+
